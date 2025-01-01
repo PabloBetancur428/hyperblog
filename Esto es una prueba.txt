@@ -4,4 +4,6 @@ del curso de platzi
  
 Hoy hablaremos de la vida
 
+y la obra maestra
+
 enfocado en git
