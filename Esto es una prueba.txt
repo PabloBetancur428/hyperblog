@@ -1,5 +1,7 @@
 Esto es una prueba
 
 del curso de platzi
+ 
+Hoy hablaremos de la vida
 
 enfocado en git
