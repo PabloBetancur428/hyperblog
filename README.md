@@ -1,2 +1,15 @@
-# hyperblog
-Un blog para curso git/github
+# Hyperblog :fa-heart:
+Un blog para curso git/github de platzi
+> Este es uno de los cursos fundamentales que más me hacía falta.
+
+> - Pablo
+
+## En este curso vemos de todo:
+* Git
+* Buenas prácticas
+* Flujos de trabajo
+* Trucos
+
+**Este es un readme corto.**
+
+Para probar [pandao](https://pandao.github.io/editor.md/en.html "pandao")
