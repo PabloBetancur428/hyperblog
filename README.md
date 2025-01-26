@@ -1,4 +1,4 @@
-# Hyperblog :fa-heart:
+# Hyperblog <3
 Un blog para curso git/github de platzi
 > Este es uno de los cursos fundamentales que más me hacía falta.
 
