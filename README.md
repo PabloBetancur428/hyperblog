@@ -11,6 +11,7 @@ Un blog para curso git/github de platzi
 * Trucos
 * Creado por narnia
 * Incluye ejemplos
+* Disponible para todos
 
 **Este es un readme corto.**
 
