@@ -9,6 +9,7 @@ Un blog para curso git/github de platzi
 * Buenas prácticas
 * Flujos de trabajo
 * Trucos
+* Creado por narnia
 
 **Este es un readme corto.**
 
