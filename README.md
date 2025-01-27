@@ -10,6 +10,8 @@ Un blog para curso git/github de platzi
 * Flujos de trabajo
 * Trucos
 * Creado por narnia
+* Incluye ejemplos
+* Disponible para todos
 
 **Este es un readme corto.**
 
